@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Chuận luôn, chúc anh Thắng sinh nhật vui vẻ',
     messDesc: 'Đón tuổi mới với chiếc ví nhiều tiền và trái tim đầy hạnh phúc bên gia đình lớn và nhỏ sắp tới nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/' 
+    messLink: 'https://www.facebook.com/'  
 }
