@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Chào mừng bạn
     đã đến với bí mật nho nhỏ
     của Duyen Hoang Le`,
-    btnIntro: 'Okii',
+    btnIntro: 'Okii ạ',
     title: 'Sau này giàu nhớ bao nuôi Duyen nhé 😘',
     desc: 'Hãy trả lời để tiếp tục ',
     btnYes: 'Tất nhiên gòy <33',
