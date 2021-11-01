@@ -2,11 +2,10 @@ const CONFIG = {
     titleWeb: "Xinchao",
     introTitle: 'Hà Trang thân mến',
     introDesc: `Chào mừng bạn
-    đã đến với Bí mật nho nhỏ
-    của Duyen Hoang Le
-    Click để tiếp tục nhé`,
-    btnIntro: '^^HiHi^^',
-    title: 'DSau này giàu nhớ bao nuôi Duyen nhé 😘',
+    đã đến với bí mật nho nhỏ
+    của Duyen Hoang Le`,
+    btnIntro: 'Okii',
+    title: 'Sau này giàu nhớ bao nuôi Duyen nhé 😘',
     desc: 'Hãy trả lời để tiếp tục ',
     btnYes: 'Tất nhiên gòy <33',
     btnNo: 'Không nhé 🙂',
