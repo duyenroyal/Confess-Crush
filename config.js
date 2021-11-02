@@ -9,7 +9,7 @@ const CONFIG = {
     desc: 'Hãy trả lời để tiếp tục ',
     btnYes: 'Tất nhiên gòy <33',
     btnNo: 'Không nhé 🙂',
-    question: 'Biết mà, ơ hôm nay có gì đặc biệt đúng không nhỉ',
+    question: 'Biếc mà, ơ hôm nay có gì đặc biệt đúng không nhỉ',
     btnReply: 'Send nè',
     reply: 'My birthday, yoo',
     mess: 'Bingo. Happy Birthday',
